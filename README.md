@@ -1,29 +1,24 @@
-# This is a large heading
+# Omar H.
 
-## This is a smaller heading
+### Origins
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet's pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I am an Egyptian/Italian living in Germany
 
-- This is
-- an unordered
-- list
+### Movie Genres
 
-1. This is 
-2. an ordered
-3. list
+My favorite movie genres are:
 
-Here is `some code` in the middle of a sentence.
+- Comedy
+- Action
+- Comics
 
-```
-This is
-a block
-of code
-```
+### Food
 
-Here is how you make [a link](https://www.wikipedia.org/).
+Love Italian as well as Egyptian cuisine the most
+some of my favorite dishes are:
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+- Lasagne/gnocchi/pasta in general
+- Pizza (of course :P)
+- Koshary
+
 
